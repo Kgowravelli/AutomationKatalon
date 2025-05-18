@@ -9,7 +9,7 @@ public class TestChrome {
 //    WebDriver driver;
 	public static void main(String[] args) 
 	{
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Kapil IT\\eclipse-workspace\\TestSeleniumWebDriver\\resources\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\KIT\\eclipse-workspace\\TestSeleniumWebDriver\\resources\\chromedriver.exe");
 
 //	    ChromeOptions options=new ChromeOptions();
 //	    options.addArguments("--remote-allow-origins=*");
